@@ -1,6 +1,6 @@
 package week1.module3;
 
-public class _04_TrailingZeros {
+public class _04_TrailingZeroes_1 {
     public static void main(String[] args) {
         System.out.println("Trailing 0s : " + trailingZeroes(6));
     }
