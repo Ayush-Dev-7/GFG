@@ -1,6 +1,6 @@
-package recursion;
+package week2.module1_recursion;
 
-public class _02_Fibonacci {
+public class _02_02_Fibonacci_TailRecursive {
     public static void main(String[] args) {
         fibonacci(10, 0, 1);
     }

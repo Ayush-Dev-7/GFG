@@ -1,4 +1,4 @@
-package recursion;
+package week2.module1_recursion;
 
 public class _04_PowerOfNumber {
 
